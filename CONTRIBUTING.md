@@ -52,7 +52,7 @@ Run these before pushing. The PR template will ask you to confirm them.
 ## Reporting bugs
 
 File an issue using the bug template. For security issues, please email
-security@sovit.xyz first; don't open a public issue until we've had a chance
+services@sovtech.pro first; don't open a public issue until we've had a chance
 to coordinate disclosure.
 
 ## Code of Conduct

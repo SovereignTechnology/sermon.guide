@@ -36,6 +36,6 @@ labels: bug
 
 <!--
 If this is a multi-tenant isolation issue (vector or DB leak between users),
-DO NOT include real user data. Email security@sovit.xyz instead and we will
+DO NOT include real user data. Email services@sovtech.pro instead and we will
 coordinate disclosure.
 -->

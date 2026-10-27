@@ -23,7 +23,7 @@
 
 . "$(dirname "$0")/common.sh"
 
-REPO_URL="${REPO_URL:-https://github.com/sovITxyz/sermon.guide.git}"
+REPO_URL="${REPO_URL:-https://github.com/SovereignTechnology/sermon.guide.git}"
 BRANCH="${BRANCH:-$(git -C "$(dirname "$0")/../.." rev-parse --abbrev-ref HEAD 2>/dev/null || echo main)}"
 
 # Preflight: the box clones BRANCH from origin over anonymous HTTPS. If the

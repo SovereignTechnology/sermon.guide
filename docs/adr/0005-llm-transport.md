@@ -175,4 +175,4 @@ live verify exists to catch.
   safety-setting overrides), or (c) a provider with better economics
   appears — (c) is a `_PROVIDERS` entry, not an ADR amendment.
 
-[Issue #24]: https://github.com/sovITxyz/sermon.guide/issues/24
+[Issue #24]: https://github.com/SovereignTechnology/sermon.guide/issues/24
