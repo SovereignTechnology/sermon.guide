@@ -63,7 +63,7 @@ See [docs/PHASES.md](./docs/PHASES.md) for what's built and what's next.
 | `web/`                | Next.js 15 + Tailwind frontend                             |
 | `docs/`               | ARCHITECTURE, PHASES, ADRs, reference PDFs                 |
 | `.claude/`            | Claude Code skills, subagents, settings (committed)        |
-| `.github/`            | PR template, issue templates, CI, CodeQL, Dependabot       |
+| `.github/`            | PR template, issue templates, CI, image builds, Dependabot |
 
 ## For contributors
 
