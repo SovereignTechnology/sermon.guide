@@ -4,6 +4,8 @@ updates:
     directory: /
     schedule:
       interval: weekly
+    cooldown:
+      default-days: 7
     groups:
       gh-actions:
         patterns: ["*"]
@@ -12,6 +14,8 @@ updates:
     directory: /worker
     schedule:
       interval: weekly
+    cooldown:
+      default-days: 7
     groups:
       worker-deps:
         patterns: ["*"]
@@ -20,6 +24,8 @@ updates:
     directory: /api
     schedule:
       interval: weekly
+    cooldown:
+      default-days: 7
     groups:
       api-deps:
         patterns: ["*"]
@@ -28,6 +34,8 @@ updates:
     directory: /web
     schedule:
       interval: weekly
+    cooldown:
+      default-days: 7
     groups:
       web-deps:
         patterns: ["*"]
@@ -46,6 +54,8 @@ updates:
     directory: /infra
     schedule:
       interval: weekly
+    cooldown:
+      default-days: 7
     groups:
       infra-images:
         patterns: ["*"]
